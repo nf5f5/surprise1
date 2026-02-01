@@ -1,2 +1,2 @@
-EnterpyTelegramBotAPI
-flask
+pyTelegramBotAPI==4.15.4
+Flask==3.0.0
